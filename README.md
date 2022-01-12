@@ -1,2 +1,2 @@
 # Golang
-[<img src="./images/golang-thumb.png">][golang]
+<img src="./images/golang-thumb.png">
